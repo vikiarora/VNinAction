@@ -12,7 +12,7 @@ public class SampleSonar {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated stub method
 		SampleSonar ss = new SampleSonar();
 		int ppp = 444;
 		System.out.println("abc /5" + ss.getAbc()/5);
